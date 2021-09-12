@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kotlin/AS/book projects/CriminalIntent/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kotlin/AS/book projects/CriminalIntent/app/src/main/res/layout/fragment_crime.xml" value="0.1" />
+        <entry key="..\:/Kotlin/AS/book projects/CriminalIntent/app/src/main/res/layout/fragment_crime_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kotlin/AS/book projects/CriminalIntent/app/src/main/res/layout/image_dialog.xml" value="0.136" />
+        <entry key="..\:/Kotlin/AS/book projects/CriminalIntent/app/src/main/res/layout/list_item_crime.xml" value="0.11614583333333334" />
+        <entry key="..\:/Kotlin/AS/book projects/CriminalIntent/app/src/main/res/menu/fragment_crime_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kotlin/AS/book projects/CriminalIntent/app/src/main/res/xml/files.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
