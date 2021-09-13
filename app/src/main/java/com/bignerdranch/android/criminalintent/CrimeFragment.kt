@@ -216,7 +216,7 @@ class CrimeFragment : Fragment(), DatePickerFragment.Callbacks {
 
     private fun updateUI() {
         titleField.setText(crime.title)
-        dateButton.text = crime.date.toString()
+        dateButton.text = crime.date.toLocaleString()
         solvedCheckBox.isChecked = crime.isSolved
         if (crime.suspect.isNotEmpty()) {
             suspectButton.text = crime.suspect
