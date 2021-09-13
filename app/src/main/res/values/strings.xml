@@ -23,4 +23,5 @@ Crime scene photo (not set)
     <string name="crime_report_subject">CriminalIntent Crime Report</string>
     <string name="send_report">Send crime report via</string>
     <string name="place_crime">Place of crime</string>
+    <string name="handcuffs">El crime fue sospechado</string>
 </resources>
